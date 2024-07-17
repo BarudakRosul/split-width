@@ -1,0 +1,37 @@
+{
+  "name": "@barudakrosul/split-width",
+  "version": "0.0.1",
+  "description": "Splits a string into an array of substrings of a specified width",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarudakRosul/split-width.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "keywords": [
+    "split",
+    "array",
+    "split-width",
+    "string"
+  ],
+  "author": "Barudak Rosul",
+  "license": "Apache-2.0",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/BarudakRosul/split-width/issues"
+  },
+  "homepage": "https://github.com/BarudakRosul/split-width#readme",
+  "funding": {
+    "url": "https://ko-fi.com/barudakrosul"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.6.0"
+  }
+}
